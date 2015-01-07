@@ -1,0 +1,10 @@
+{
+  "author" :"Dan Neumann",
+  "name": "censorifyDKN",
+  "version": "0.0.1",
+  "dependencies": {},
+  "engines": {
+      "node": "*"
+  }
+
+}
