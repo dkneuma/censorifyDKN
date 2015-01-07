@@ -1,11 +1,11 @@
 {
   "author" :"Dan Neumann",
-  "name": "censorifyDKN",
+  "name": "censorifydkn",
   "version": "0.0.1",
   "dependencies": {},
   "repository" : {
     "type":"git",
-    "url":"https://github.com/dkneuma/censorifyDKN.git"
+    "url":"https://github.com/dkneuma/censorifydkn.git"
   },
   "keywords": [
     "censor",
