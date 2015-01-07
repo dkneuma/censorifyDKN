@@ -3,6 +3,15 @@
   "name": "censorifyDKN",
   "version": "0.0.1",
   "dependencies": {},
+  "repository" : {
+    "type":"git",
+    "url":"https://github.com/dkneuma/censorifyDKN.git"
+  },
+  "keywords": [
+    "censor",
+    "words"
+  ]
+  ,
   "engines": {
       "node": "*"
   }
