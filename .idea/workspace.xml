@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c400107f-7b51-49ec-a0e2-f1be4d2fc910" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/censorifyDKN-0.0.1.tgz" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/package.json" afterPath="$PROJECT_DIR$/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-    </list>
+    <list default="true" id="c400107f-7b51-49ec-a0e2-f1be4d2fc910" name="Default" comment="" />
     <ignored path="censorify.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
