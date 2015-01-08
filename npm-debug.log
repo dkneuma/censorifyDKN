@@ -19,69 +19,71 @@
 7 verbose parsed url   href: '.' }
 8 silly lockFile 3a52ce78- .
 9 verbose lock . /Users/daniel.neumann/.npm/3a52ce78-.lock
-10 verbose tar pack [ '/Users/daniel.neumann/.npm/censorifyDKN/0.0.1/package.tgz',
+10 verbose tar pack [ '/Users/daniel.neumann/.npm/censorifydkn/0.0.1/package.tgz',
 10 verbose tar pack   '.' ]
-11 verbose tarball /Users/daniel.neumann/.npm/censorifyDKN/0.0.1/package.tgz
+11 verbose tarball /Users/daniel.neumann/.npm/censorifydkn/0.0.1/package.tgz
 12 verbose folder .
-13 info prepublish censorifyDKN@0.0.1
+13 info prepublish censorifydkn@0.0.1
 14 silly lockFile 1f1177db-tar tar://.
 15 verbose lock tar://. /Users/daniel.neumann/.npm/1f1177db-tar.lock
-16 silly lockFile 08a6f2ed-m-censorifyDKN-0-0-1-package-tgz tar:///Users/daniel.neumann/.npm/censorifyDKN/0.0.1/package.tgz
-17 verbose lock tar:///Users/daniel.neumann/.npm/censorifyDKN/0.0.1/package.tgz /Users/daniel.neumann/.npm/08a6f2ed-m-censorifyDKN-0-0-1-package-tgz.lock
+16 silly lockFile 8a415bc3-m-censorifydkn-0-0-1-package-tgz tar:///Users/daniel.neumann/.npm/censorifydkn/0.0.1/package.tgz
+17 verbose lock tar:///Users/daniel.neumann/.npm/censorifydkn/0.0.1/package.tgz /Users/daniel.neumann/.npm/8a415bc3-m-censorifydkn-0-0-1-package-tgz.lock
 18 silly lockFile 1f1177db-tar tar://.
 19 silly lockFile 1f1177db-tar tar://.
-20 silly lockFile 08a6f2ed-m-censorifyDKN-0-0-1-package-tgz tar:///Users/daniel.neumann/.npm/censorifyDKN/0.0.1/package.tgz
-21 silly lockFile 08a6f2ed-m-censorifyDKN-0-0-1-package-tgz tar:///Users/daniel.neumann/.npm/censorifyDKN/0.0.1/package.tgz
-22 silly lockFile 07f795f8-n-npm-censorifyDKN-0-0-1-package /Users/daniel.neumann/.npm/censorifyDKN/0.0.1/package
-23 verbose lock /Users/daniel.neumann/.npm/censorifyDKN/0.0.1/package /Users/daniel.neumann/.npm/07f795f8-n-npm-censorifyDKN-0-0-1-package.lock
-24 silly lockFile 07f795f8-n-npm-censorifyDKN-0-0-1-package /Users/daniel.neumann/.npm/censorifyDKN/0.0.1/package
-25 silly lockFile 07f795f8-n-npm-censorifyDKN-0-0-1-package /Users/daniel.neumann/.npm/censorifyDKN/0.0.1/package
+20 silly lockFile 8a415bc3-m-censorifydkn-0-0-1-package-tgz tar:///Users/daniel.neumann/.npm/censorifydkn/0.0.1/package.tgz
+21 silly lockFile 8a415bc3-m-censorifydkn-0-0-1-package-tgz tar:///Users/daniel.neumann/.npm/censorifydkn/0.0.1/package.tgz
+22 silly lockFile b8983274-n-npm-censorifydkn-0-0-1-package /Users/daniel.neumann/.npm/censorifydkn/0.0.1/package
+23 verbose lock /Users/daniel.neumann/.npm/censorifydkn/0.0.1/package /Users/daniel.neumann/.npm/b8983274-n-npm-censorifydkn-0-0-1-package.lock
+24 silly lockFile b8983274-n-npm-censorifydkn-0-0-1-package /Users/daniel.neumann/.npm/censorifydkn/0.0.1/package
+25 silly lockFile b8983274-n-npm-censorifydkn-0-0-1-package /Users/daniel.neumann/.npm/censorifydkn/0.0.1/package
 26 silly lockFile 3a52ce78- .
 27 silly lockFile 3a52ce78- .
 28 silly publish { author: { name: 'Dan Neumann' },
-28 silly publish   name: 'censorifyDKN',
+28 silly publish   name: 'censorifydkn',
 28 silly publish   version: '0.0.1',
 28 silly publish   dependencies: {},
 28 silly publish   repository:
 28 silly publish    { type: 'git',
-28 silly publish      url: 'https://github.com/dkneuma/censorifyDKN.git' },
+28 silly publish      url: 'https://github.com/dkneuma/censorifydkn.git' },
 28 silly publish   keywords: [ 'censor', 'words' ],
 28 silly publish   engines: { node: '*' },
 28 silly publish   readme: 'If you have to ask, you probably don\'t need this.',
 28 silly publish   readmeFilename: 'README.md',
-28 silly publish   gitHead: '4b07a91acc67371cd3616b7af467890f164c9361',
+28 silly publish   gitHead: 'f625278cfa11b71d78a11eb6d7e14764f1073e1b',
 28 silly publish   description: 'If you have to ask, you probably don\'t need this.',
-28 silly publish   bugs: { url: 'https://github.com/dkneuma/censorifyDKN/issues' },
-28 silly publish   homepage: 'https://github.com/dkneuma/censorifyDKN',
-28 silly publish   _id: 'censorifyDKN@0.0.1',
+28 silly publish   bugs: { url: 'https://github.com/dkneuma/censorifydkn/issues' },
+28 silly publish   homepage: 'https://github.com/dkneuma/censorifydkn',
+28 silly publish   _id: 'censorifydkn@0.0.1',
 28 silly publish   scripts: {},
-28 silly publish   _shasum: '0b75c53396bb0b75b8cff33299574d151ae2f325',
+28 silly publish   _shasum: '97e9a22f6e87218ad9a9209fabc1812d37bdf32b',
 28 silly publish   _from: '.' }
-29 verbose request where is /censorifyDKN
+29 verbose request where is /censorifydkn
 30 verbose request registry https://registry.npmjs.org/
-31 verbose request id 59185b655ec8428c
-32 verbose url raw /censorifyDKN
-33 verbose url resolving [ 'https://registry.npmjs.org/', './censorifyDKN' ]
-34 verbose url resolved https://registry.npmjs.org/censorifyDKN
-35 verbose request where is https://registry.npmjs.org/censorifyDKN
-36 info trying registry request attempt 1 at 09:42:48
-37 http PUT https://registry.npmjs.org/censorifyDKN
-38 http 403 https://registry.npmjs.org/censorifyDKN
-39 verbose headers { date: 'Wed, 07 Jan 2015 14:42:48 GMT',
+31 verbose request id b1a39cee610abfd4
+32 verbose url raw /censorifydkn
+33 verbose url resolving [ 'https://registry.npmjs.org/', './censorifydkn' ]
+34 verbose url resolved https://registry.npmjs.org/censorifydkn
+35 verbose request where is https://registry.npmjs.org/censorifydkn
+36 info trying registry request attempt 1 at 21:36:01
+37 http PUT https://registry.npmjs.org/censorifydkn
+38 http 403 https://registry.npmjs.org/censorifydkn
+39 verbose headers { date: 'Thu, 08 Jan 2015 02:36:02 GMT',
 39 verbose headers   server: 'CouchDB/1.5.0 (Erlang OTP/R16B03)',
 39 verbose headers   'content-type': 'application/json',
 39 verbose headers   'cache-control': 'max-age=60',
-39 verbose headers   'content-length': '76',
+39 verbose headers   'content-length': '2085',
 39 verbose headers   'accept-ranges': 'bytes',
 39 verbose headers   via: '1.1 varnish',
-39 verbose headers   'x-served-by': 'cache-dfw1835-DFW',
+39 verbose headers   'x-served-by': 'cache-ord1730-ORD',
 39 verbose headers   'x-cache': 'MISS',
 39 verbose headers   'x-cache-hits': '0',
-39 verbose headers   'x-timer': 'S1420641768.450536,VS0,VE275',
+39 verbose headers   'x-timer': 'S1420684561.929871,VS0,VE295',
 39 verbose headers   'keep-alive': 'timeout=10, max=50',
 39 verbose headers   connection: 'Keep-Alive' }
 40 error publish Failed PUT 403
-41 error Error: forbidden New packages must have all-lowercase names: censorifyDKN
+41 error Error: forbidden cannot modify pre-existing version: 0.0.1
+41 error old={"author":{"name":"Dan Neumann"},"name":"censorifydkn","version":"0.0.1","dependencies":{},"repository":{"type":"git","url":"https://github.com/dkneuma/censorifydkn.git"},"keywords":["censor","words"],"engines":{"node":"*"},"gitHead":"f625278cfa11b71d78a11eb6d7e14764f1073e1b","description":"If you have to ask, you probably don't need this.","bugs":{"url":"https://github.com/dkneuma/censorifydkn/issues"},"homepage":"https://github.com/dkneuma/censorifydkn","_id":"censorifydkn@0.0.1","scripts":{},"_shasum":"77219dcb63c3fb6dc8d520447ee663cb4857e139","_from":".","_npmVersion":"1.4.28","_npmUser":{"name":"dkneuma","email":"dkneuma@gmail.com"},"maintainers":[{"name":"dkneuma","email":"dkneuma@gmail.com"}],"dist":{"shasum":"77219dcb63c3fb6dc8d520447ee663cb4857e139","tarball":"http://registry.npmjs.org/censorifydkn/-/censorifydkn-0.0.1.tgz"}}
+41 error new={"author":{"name":"Dan Neumann"},"name":"censorifydkn","version":"0.0.1","dependencies":{},"repository":{"type":"git","url":"https://github.com/dkneuma/censorifydkn.git"},"keywords":["censor","words"],"engines":{"node":"*"},"readme":"If you have to ask, you probably don't need this.","readmeFilename":"README.md","gitHead":"f625278cfa11b71d78a11eb6d7e14764f1073e1b","description":"If you have to ask, you probably don't need this.","bugs":{"url":"https://github.com/dkneuma/censorifydkn/issues"},"homepage":"https://github.com/dkneuma/censorifydkn","_id":"censorifydkn@0.0.1","scripts":{},"_shasum":"97e9a22f6e87218ad9a9209fabc1812d37bdf32b","_from":".","_npmVersion":"1.4.28","_npmUser":{"name":"dkneuma","email":"dkneuma@gmail.com"},"maintainers":[{"name":"dkneuma","email":"dkneuma@gmail.com"}],"dist":{"shasum":"97e9a22f6e87218ad9a9209fabc1812d37bdf32b","tarball":"http://registry.npmjs.org/censorifydkn/-/censorifydkn-0.0.1.tgz"}}: censorifydkn
 41 error     at RegClient.<anonymous> (/usr/local/lib/node_modules/npm/node_modules/npm-registry-client/lib/request.js:308:14)
 41 error     at Request._callback (/usr/local/lib/node_modules/npm/node_modules/npm-registry-client/lib/request.js:246:65)
 41 error     at Request.self.callback (/usr/local/lib/node_modules/npm/node_modules/request/request.js:236:22)

@@ -1,7 +1,7 @@
 {
   "author" :"Dan Neumann",
   "name": "censorifydkn",
-  "version": "0.0.1",
+  "version": "0.1.2",
   "dependencies": {},
   "repository" : {
     "type":"git",
@@ -10,8 +10,9 @@
   "keywords": [
     "censor",
     "words"
-  ]
-  ,
+  ],
+  "dependencies":{},
+
   "engines": {
       "node": "*"
   }
